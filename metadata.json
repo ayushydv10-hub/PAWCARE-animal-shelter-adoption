@@ -1,0 +1,8 @@
+{
+  "name": "PawCare",
+  "description": "An animal shelter and adoption platform connecting vetted dogs, cats, and small animals with prepared homes through transparent medical records and foster support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
